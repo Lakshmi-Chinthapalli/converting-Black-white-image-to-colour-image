@@ -10,5 +10,7 @@ Prediction of color components: The model predicts the 'a' and 'b' components of
 Combining with luminance: The original luminance (L channel) is combined with the predicted 'a' and 'b' channels to reconstruct the colorized image.
 Output the colorized image: The final image is converted back to the RGB color space for display and saving.
 
+ ![Image Alt](image_url)
+
 
 
